@@ -5,7 +5,7 @@
 #include <boost/algorithm/string/predicate.hpp>
 #include <boost/test/unit_test.hpp>
 
-#include "async/Async.h"
+#include "Async.h"
 
 struct TestAsyncLibraryFixture {
     ~TestAsyncLibraryFixture() {
